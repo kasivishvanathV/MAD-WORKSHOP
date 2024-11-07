@@ -403,4 +403,6 @@ AndroidManifest.xml
     </application>
 
 </manifest>
-OUTPUT:
+
+## OUTPUT:
+![kasi](https://github.com/user-attachments/assets/0acee064-8979-4e2c-ac7c-6fb133fe854a)
