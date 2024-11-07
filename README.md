@@ -406,3 +406,5 @@ AndroidManifest.xml
 
 ## OUTPUT:
 ![kasi](https://github.com/user-attachments/assets/0acee064-8979-4e2c-ac7c-6fb133fe854a)
+![kasi2](https://github.com/user-attachments/assets/a5d2a5eb-3c1e-4796-bffe-94eca4aca272)
+![kasi3](https://github.com/user-attachments/assets/1bb4def3-5b12-4542-a5b3-f711c04ffa1b)
